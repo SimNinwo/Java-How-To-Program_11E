@@ -1,5 +1,5 @@
 package ex3_11;
-// Account class th a double instance variable balance and a constructor
+// Account class with a double instance variable balance and a constructor
 // and deposit method that perform validation.
 
 public class Account 
